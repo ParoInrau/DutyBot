@@ -1,7 +1,7 @@
 /**
  * Класс для описания судов и получения информации из БД
  */
-
+//
 public class Court {
     private String idCourt;
     private String nameCourt;
