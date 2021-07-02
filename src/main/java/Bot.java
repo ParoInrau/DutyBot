@@ -186,6 +186,6 @@ public class Bot extends TelegramLongPollingBot {
      * @return токен бота
      */
     public String getBotToken() {
-        return "1084951476:AAE4dJBBZPf_663J3fCD_Ra2NpWlQRn6JLM";
+        return "";
     }
 }
